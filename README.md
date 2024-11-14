@@ -12,7 +12,7 @@ This project is a web application built with Streamlit to predict the winner of 
 7. [Demo](#demo)
 8. [Future Improvements](#future-improvements)
 9. [Contributing](#contributing)
-10. [License](#license)
+
 
 ## Overview
 The goal of this project is to predict the winner of IPL matches based on a range of factors such as team composition, player performance, and past match statistics. Users can select input features related to the two competing teams and see the predicted outcome.
@@ -25,15 +25,12 @@ The goal of this project is to predict the winner of IPL matches based on a rang
 
 ## Dataset
 The data used for training the model consists of historical IPL match data, including:
-- Team names
-- Venue details
-- Match outcomes
-- Player statistics
-
 The dataset is preprocessed and cleaned to ensure accurate and meaningful predictions.
+[Click here to view the dataset](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set)
+
 
 ## Machine Learning Model
-The model used in this project is a **[insert model type here, e.g., Logistic Regression, Random Forest, etc.]**. It was chosen for its efficiency and performance with structured datasets. The model has been trained and tested on past IPL seasons' data to provide reliable predictions.
+The model used in this project is a **Logistic Regression**. It was chosen for its efficiency and performance with structured datasets. The model has been trained and tested on past IPL seasons' data to provide reliable predictions.
 
 ## Installation
 To run this project locally, follow these steps:
@@ -43,13 +40,14 @@ To run this project locally, follow these steps:
    git clone https://github.com/your-username/ipl-winner-prediction.git
    cd ipl-winner-prediction
 
-   ## How to Use
+## How to Use
 1. Open the Streamlit app in your browser.
 2. Select details for an upcoming IPL match, including teams and venue.
 3. Click on **Predict** to view the predicted winner and additional match insights.
+   
 
 ## Demo
-[Provide a link to the deployed application if available]
+[Click here to view the deployed application](https://winner-prediction.streamlit.app/)
 
 ## Future Improvements
 - Enhance the model by incorporating more recent data and advanced machine learning techniques.
@@ -59,6 +57,5 @@ To run this project locally, follow these steps:
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request to add new features or fix bugs.
 
-## License
-This project is licensed under the MIT License.
+## Thank you
 
