@@ -42,3 +42,23 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/ipl-winner-prediction.git
    cd ipl-winner-prediction
+
+   ## How to Use
+1. Open the Streamlit app in your browser.
+2. Select details for an upcoming IPL match, including teams and venue.
+3. Click on **Predict** to view the predicted winner and additional match insights.
+
+## Demo
+[Provide a link to the deployed application if available]
+
+## Future Improvements
+- Enhance the model by incorporating more recent data and advanced machine learning techniques.
+- Add visualizations for player and team statistics.
+- Provide explanations for predictions with feature importance insights.
+
+## Contributing
+Contributions are welcome! Please fork this repository and submit a pull request to add new features or fix bugs.
+
+## License
+This project is licensed under the MIT License.
+
