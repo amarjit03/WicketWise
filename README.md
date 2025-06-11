@@ -39,7 +39,7 @@ Our prediction engine is a **Logistic Regression model**, a tried-and-tested mac
 3.  **Training the Oracle 🧠:** The model learned patterns from this historical data, figuring out how these different features influence the outcome of a match.
 4.  **The Prediction 🎯:** When you input the current match situation into our app, the trained model (from `pipe.pkl`) calculates the probability of the chasing team winning.
 
-📈 **Accuracy:** Our model currently predicts the match outcome with an accuracy of approximately **79.67%**! While no prediction is ever 100% certain (that's the thrill of sports!), this gives you a pretty solid idea of where the game might be heading.
+📈 **Accuracy:** Our model currently predicts the match outcome with an accuracy of approximately **92.67%**! While no prediction is ever 100% certain (that's the thrill of sports!), this gives you a pretty solid idea of where the game might be heading.
 
 ---
 
