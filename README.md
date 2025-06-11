@@ -5,7 +5,7 @@ Ever found yourself on the edge of your seat during an IPL match, wondering whic
 Get ready to impress your friends with surprisingly accurate predictions and dive deeper into the thrilling world of T20 cricket analytics.
 
 <!-- Placeholder for a cool GIF or screenshot of the app in action! -->
-![App Demo](https://winner-prediction.streamlit.app/)
+[Live Demo – Winner Prediction App](https://winner-prediction.streamlit.app/)
 <!-- TODO: Replace with actual GIF/Screenshot link -->
 
 ---
