@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add custom base styles or components here if needed */
+body {
+    /* Example of a custom base style that could be added */
+    /* font-family: 'Inter', sans-serif; */
+}
+
+/* Custom animation classes */
+.fade-in-up-start {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+.fade-in-up-active {
+    opacity: 1;
+    transform: translateY(0);
+}
